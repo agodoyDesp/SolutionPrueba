@@ -26,6 +26,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hola Mundo");
             Console.ReadLine();
+            Console.WriteLine("Hola Mundo2");
+            Console.ReadLine();
         }
     }
 }
